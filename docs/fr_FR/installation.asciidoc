@@ -1,0 +1,5 @@
+﻿Afin d'utiliser le plugin, vous devez le télécharger, l'installer et l'activer comme tout plugin Jeedom.
+
+Suite à cela il vous faudra vérifier que les dépendances sont présentes et que Jeedom dispose des droits sudo. Si les dépendances sont absentes, cliquez sur le bouton lancer.
+
+image:../images/installation.png[width=380]

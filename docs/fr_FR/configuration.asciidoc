@@ -1,0 +1,20 @@
+﻿Accédez à la page de configuration du plugin via l'onglet Plugins.
+
+image::../images/plugins.png[]
+
+Pour créer son équipement, il suffit de cliquer sur le bouton ajouter.
+
+image::../images/ajouter.png[]
+
+Le menu général permet de donner un nom, une place dans l'arborescence, activer et rendre visible votre équipement Bbox. Vous pouvez aussi ajouter votre équipement à l'une des catégories de Jeedom. 
+
+image::../images/general.png[]
+
+Vous devez ensuite configurer votre équipement. Pour ce faire, entrez l'adresse de votre démodulateur sur le réseau.
+
+image::../images/configuration.png[]
+
+Une fois l'équipement sauvegardé, la liste des commandes apparaît et vous pouvez utiliser votre plugin.
+
+
+

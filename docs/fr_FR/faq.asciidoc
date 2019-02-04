@@ -1,0 +1,8 @@
+﻿[panel,primary]
+.Comment savoir si ma BBox est compatible ?
+--
+Rendez-vous sur la page d'administration de votre BBox puis dans *Schéma de mon réseau*.
+
+
+--
+image::../images/faq1.png[]

@@ -1,0 +1,18 @@
+﻿:icons:
+== Bbox TV
+
+'''
+=== Description
+include::description.asciidoc[]
+
+'''
+=== Installation
+include::installation.asciidoc[]
+
+'''
+=== Configuration
+include::configuration.asciidoc[]
+
+'''
+=== FAQ
+include::faq.asciidoc[]
